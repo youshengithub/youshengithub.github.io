@@ -15,6 +15,8 @@ I am a PhD student (full scholarship) in the Department of Computer Science at [
 My research interests include **Adversarial Machine Learning**, **AI Security**, and **Evolutionary Computation**, with a focus on adversarial attacks/defenses for DNNs and LLMs, graph model poisoning, and evolutionary optimization.
 
 # 🔥 News
+- *2026*: &nbsp;🎉 Paper **VeAttack** accepted by **ICLR 2026**!
+- *2026*: &nbsp;🎉 Paper **SeRadar⁺** published in **IEEE TMC** (SCI Q1)!
 - *2026.01*: &nbsp;🎉 Paper **UniBreak** accepted by **IEEE TEVC** (Special Issue, SCI Q1)!
 - *2025.06*: &nbsp;🎉 Paper **SOPA** accepted by **IEEE TEVC** (SCI Q1)!
 - *2024.09*: &nbsp;🎓 Started PhD at City University of Hong Kong with full scholarship!
@@ -69,6 +71,11 @@ A query-efficient black-box adversarial attack against defensive DNNs via multi-
 
 **Other Publications**
 
+- SeRadar⁺: A Systematic Framework for Secondary Reflections-Enhanced mmWave Human Sensing \
+  D Gong, N Zheng, Q Xu, **S You**, B Xie, J Xiong, S Wang, Y Fang, Z Yin \
+  *IEEE Transactions on Mobile Computing*, 2026 \
+  \[[Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Ok_jDvgAAAAJ&citation_for_view=Ok_jDvgAAAAJ:UebtZRa9Y70C)\]
+
 - Gero-LLM: A Multimodal Large Language Model for Geroprotector Discovery via Cross-Modal Differentiated Mutual Learning \
   Z Li, J Yu, **S You**, D Gong, J Liu, L Cai, Q Lin, X Li, KC Wong \
   *IEEE Journal of Biomedical and Health Informatics*, 2026 \
@@ -81,8 +88,8 @@ A query-efficient black-box adversarial attack against defensive DNNs via multi-
 
 - VeAttack: Downstream-Agnostic Vision Encoder Attack against Large Vision Language Models \
   H Mei, Z Wang, **S You**, M Dong, C Xu \
-  *arXiv preprint arXiv:2505.17440*, 2025 \
-  \[[arXiv](https://arxiv.org/abs/2505.17440)\] \[[Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Ok_jDvgAAAAJ&citation_for_view=Ok_jDvgAAAAJ:Y0pCki6q_DkC)\]
+  *International Conference on Learning Representations (ICLR)*, 2026 \
+  \[[Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Ok_jDvgAAAAJ&citation_for_view=Ok_jDvgAAAAJ:Y0pCki6q_DkC)\]
 
 - Elucidating Spatiotemporal Chromatin Dynamics with Multi-Stage Differential Variations from Hi-C \
   Z Li, J Yu, **S You**, L Wei, Q Lin, X Li, KC Wong \
@@ -94,7 +101,7 @@ A query-efficient black-box adversarial attack against defensive DNNs via multi-
   *arXiv preprint arXiv:2607.26651*, 2026 \
   \[[arXiv](https://arxiv.org/abs/2607.26651)\]
 
-- Long-Horizon LLM Coordination with Explicit Synchronization and Adaptive Correction \
+- SyncPlan: Long-Horizon LLM Coordination with Explicit Synchronization and Adaptive Correction \
   **Shen You**, Xiaoming Zhu, Weining Weng, Hefei Mei, ..., Ka-Chun Wong \
   *arXiv preprint arXiv:2608.01652*, 2026 \
   \[[arXiv](https://arxiv.org/abs/2608.01652)\]
