@@ -124,6 +124,7 @@ A query-efficient black-box adversarial attack against defensive DNNs via multi-
 - *2024 Fall* &nbsp; **Teaching Assistant**, CS5488 Big Data Algorithms and Techniques & CS4480 Data-Intensive Computing, CityU
 
 # 🔍 Academic Services
+- **Reviewer**, IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
 - **Reviewer**, International Conference on Learning Representations (ICLR)
 - **Reviewer**, IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)
 - **Reviewer**, IEEE/ACM Transactions on Computational Biology and Bioinformatics (TCBB)
